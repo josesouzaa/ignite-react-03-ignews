@@ -1,6 +1,6 @@
 ﻿# ignews
 
-Projeto do curso Ignite - Trilha React da [Rocketseat](https://rocketseat.com.br/). Aplicação de conteúdos em texto que só podem ser acessados por meio de assinatura. Aplicação contruída com NextJS, salvando informações no FaunaDB, conteúdos gerados por CMS e pagamentos sendo processador pelo Stripe.
+Projeto do curso Ignite - Trilha React da [Rocketseat](https://rocketseat.com.br/). Aplicação de conteúdos em texto que só podem ser acessados por meio de assinatura. Aplicação construída com NextJS, salvando informações no FaunaDB, conteúdos gerados por CMS e pagamentos processador pelo Stripe.
 
 ## ✨ Preview
 
